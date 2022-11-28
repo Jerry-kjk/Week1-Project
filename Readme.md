@@ -1,18 +1,11 @@
-# Student-Grade-Generator
+# Student-Grade-Generator And Speed-Detector
 *****
-### Author : Mugo Joseph Wamiti
+### Author : Jérémy KAJIK
 ****
 ## Project Description
 A program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade as follows: 
 
 A > 79, B > 60 to 79, C > 59 to 49, D > 40 to 49, E > less 40.
-******
-
-## SCREENSHOTS
-- link 1
-- link 2
-
-
 ********
 ## SetUp Instruction
 ### Requirements
@@ -52,13 +45,12 @@ Or you can access the web application directly via this [LINK.](link.com/)
 ## Technologies Used
 1. HTML
 2. MdBootstrap
-3. HTML
-4. CSS
-5. JavaScript
+3. CSS
+4. JavaScript
 *****
 ## Contact Information
-* Email : example@gmail.com
+* Email : jeremy.kajik@student.moringaschool.com
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) YEAR Author
+Copyright (c) 2022 Jerry KAJIK
